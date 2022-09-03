@@ -1,2 +1,2 @@
 # MINI-PROJECTS
-these are some mini projects i have worked on
+These are some mini guided projects i have worked on for my pratice
